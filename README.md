@@ -10,7 +10,7 @@ v1.0 Features
 * One button for each team.  Short press adds one to the score while a long press subtracts one.
 * One button to advance the set number.  A medium press is required to avoid accidental triggers.
 
-* Long-pressing the HOME SCORE button will reset the score to 0:0.
+* Extra-Long-pressing the HOME SCORE button will reset the score to 0:0.
 * Long-pressing the SET button will reset the set to 1.
 * Currently limited to scores of 0 to 99 (I feel like only pro-basketball is one of the few places this would be an issue; this is geared more toward youth sports games)
 

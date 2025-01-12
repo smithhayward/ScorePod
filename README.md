@@ -1,4 +1,4 @@
-ScorePod is a simple score keeping and display device that uses an Arduino compatible microcontroller and a SSD1306 OLED display.
+ScorePod is a simple score keeping and display device that uses an Arduino compatible microcontroller, 3 momentary push buttons, and a SSD1306 128x64 OLED display.
 
 Currently focused on volleyball, the plan is to expand to other sports in the future.
 

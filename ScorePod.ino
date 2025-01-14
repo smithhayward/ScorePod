@@ -15,12 +15,12 @@
 #define SCREEN_HEIGHT 64
 
 // Define custom I2C pins PHYSICAL
-// #define I2C_SDA 23  // Custom SDA pin
-// #define I2C_SCL 22 // Custom SCL pin
+#define I2C_SDA 23  // Custom SDA pin
+#define I2C_SCL 22 // Custom SCL pin
 
 // Define custom I2C pins VIRTUAL
-#define I2C_SDA 21  // Custom SDA pin
-#define I2C_SCL 20 // Custom SCL pin
+//#define I2C_SDA 21  // Custom SDA pin
+//#define I2C_SCL 20 // Custom SCL pin
 
 // Button pins
 #define HOME_PIN 14
@@ -41,7 +41,7 @@
 //#define TEAM_NAME "OMNI"
 
 #define APP_NAME "ScorePod"
-#define APP_VERSION "v1.0"
+#define APP_VERSION "v1.1"
 
 // Create an instance of the display object
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);

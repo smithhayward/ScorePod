@@ -16,15 +16,14 @@ v1.0 Features
 * Tracking of set and game winners hard-coded to best-of-3 games.
 * Auto-reset to next set if game not yet won (sets one and two when both sets not won by the same team)
 
-
 Roadmap Ideas
 ===
 * Manage won set counts using button press combinations (only really needed if the device is used mid-game or something happens and the device resets)
 * Non-volatile saving of current set in case of power interruption.
 * Saving & review of multiple games during a tournament.
 * Setup routine at boot time for key game rules and point limits (i.e. 25 points per game; 15 points in last set; 3 sets per game, etc.)
-* Special button for fun animations (Aces, Blocks, Kills for VB; Home Run, Strikeout for Baseball, etc)
-* Counting special events like Aces and Strikeouts.
+* Special button for fun animations (Aces, Blocks, Kills for VB; Home Run, Strikeout for Baseball, etc.)
+* Counting special events like Aces, Kills, Blocks and Strikeouts.
 * Box Score Display
 * Other stat tracking and display.
 * Sound Effects

@@ -21,7 +21,7 @@ Roadmap Ideas
 * Manage won set counts using button press combinations (only really needed if the device is used mid-game or something happens and the device resets)
 * Non-volatile saving of current set in case of power interruption.
 * Saving & review of multiple games during a tournament.
-* Setup routine at boot time for key game rules and point limits (i.e. 25 points per game; 15 points in last set; 3 sets per game, etc.)
+* Setup routine (menu launched or at boot upon button held) for key game rules and point limits (i.e. 25 points per game; 15 points in last set; 3 sets per game, etc.)
 * Special button for fun animations (Aces, Blocks, Kills for VB; Home Run, Strikeout for Baseball, etc.)
 * Counting special events like Aces, Kills, Blocks and Strikeouts.
 * Box Score Display

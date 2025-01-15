@@ -28,3 +28,4 @@ Roadmap Ideas
 * Additional Remote Scoreboards (for when the crowd can't see the scoreboard which is all-to-often)
 * Bluetooth Interactivity with existing app interfaces
 * Wifi Interactivity (remote view via web UI; remote control via web UI)
+* External Scoreboard Display [LED Matrix or Other COTS Screen Tech] (BT/WiFi/LoRa)

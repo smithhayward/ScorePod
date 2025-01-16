@@ -27,6 +27,7 @@ Roadmap Ideas
 * Box Score Display
 * Other stat tracking and display.
 * Sound Effects
+* Battery Monitoring & Alerts (LED, color/flashing patterns)
 * Bluetooth Interactivity with existing app interfaces
 * Wifi Interactivity (remote view via web UI; remote control via web UI)
 * External Scoreboard Display [LED Matrix or Other COTS Screen Tech] (BT/WiFi/LoRa)
